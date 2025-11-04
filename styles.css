@@ -59,22 +59,16 @@ img {
 @font-face {
   font-family: 'Mushrooms';
   src: url('SuperBread-ywdRV.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
 @font-face {
   font-family: 'Pony';
   src: url('EquestriaNeue.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
 @font-face {
   font-family: 'Pixel';
   src: url('fontstuck.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
 .container {
